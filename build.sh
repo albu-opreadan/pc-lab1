@@ -1,0 +1,1 @@
+clang ./source/main.c -o ./build/main
